@@ -10,3 +10,4 @@ database = client.test
 
 
 game_collection = database["games"]
+markup_message_collection = database['markup_message_collection']
