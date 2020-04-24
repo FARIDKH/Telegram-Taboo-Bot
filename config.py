@@ -1,0 +1,6 @@
+TOKEN = '1238856081:AAH3fu9xEuKd0KSCh6GQhrj6_IksDkiAkTs'
+NGROK_URL = 'http://10635216.ngrok.io'
+BASE_TELEGRAM_URL = 'https://api.telegram.org/bot{}'.format(TOKEN)
+LOCAL_WEBHOOK_ENDPOINT = '{}/'.format(NGROK_URL)
+TELEGRAM_INIT_WEBHOOK_URL = '{}/setWebhook?url={}'.format(BASE_TELEGRAM_URL, LOCAL_WEBHOOK_ENDPOINT)
+TELEGRAM_SEND_MESSAGE_URL = BASE_TELEGRAM_URL + '/sendMessage'
