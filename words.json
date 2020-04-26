@@ -1,0 +1,10 @@
+[
+    {
+        "word" : "Taxta",
+        "similarTo" : ["Demir","Wood","Uzuk"]
+    },
+    {
+        "word" : "Eldar",
+        "similarTo" : ["Ferid","Estonia","Solmaz"]
+    }
+]
