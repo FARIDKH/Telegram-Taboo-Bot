@@ -15,7 +15,7 @@ current_plays_collection = database['current_plays']
 
 words_collection = database['words']
 
-with open('words.json') as json_file:
-    data = json.load(json_file)
-    words_collection.insert_many(data)
+# with open('words.json') as json_file:
+#     data = json.load(json_file)
+#     words_collection.insert_many(data)
 

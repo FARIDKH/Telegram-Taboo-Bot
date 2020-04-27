@@ -1,10 +1,30 @@
 [
     {
         "word" : "Taxta",
-        "similarTo" : ["Demir","Wood","Uzuk"]
+        "similarTo" : ["Od","Su","Metal"]
     },
     {
         "word" : "Eldar",
         "similarTo" : ["Ferid","Estonia","Solmaz"]
+    },
+    {
+        "word" : "Inam",
+        "similarTo" : ["Din","Inanc"]
+    },
+    {
+        "word" : "Futbol",
+        "similarTo" : ["Messi","Ronaldo"]
+    },
+    {
+        "word" : "Breaking Bad",
+        "similarTo" : ["Ferid","Kimya"]
+    },
+    {
+        "word": "Laptop",
+        "similarTo" : ["Komputer","Stolustu"]
+    },
+    {
+        "word": "Gozyasi",
+        "similarTo" : ["Beden","Qoca","Keder"]
     }
 ]
